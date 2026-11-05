@@ -1,0 +1,31 @@
+ESTADO DE CUENTA - TARJETA DE CREDITO
+========================================
+
+DETALLE DE TRANSACCIONES:
+ID: 1
+Descripcion: Compra de supermercado
+Monto: ₡25,000.00
+----------------------------------------
+ID: 2
+Descripcion: Pago de gasolina
+Monto: ₡18,000.00
+----------------------------------------
+ID: 3
+Descripcion: Compra de ropa
+Monto: ₡35,000.00
+----------------------------------------
+ID: 4
+Descripcion: Pago de internet
+Monto: ₡22,000.00
+----------------------------------------
+ID: 5
+Descripcion: Compra de alimentos
+Monto: ₡15,000.00
+----------------------------------------
+
+RESUMEN:
+Total de contado: ₡115,000.00
+Interes (2.6%): ₡2,990.00
+Total con interes: ₡117,990.00
+Cashback (0.1%): ₡115.00
+TOTAL A PAGAR: ₡117,875.00
